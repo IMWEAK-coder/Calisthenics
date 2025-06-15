@@ -688,6 +688,9 @@ body{
   .schedule-sec{
     width: 100%;
   }
+
+  .table{
+scale:0.9;
 }
 
 .schedule-sec h3{
