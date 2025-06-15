@@ -686,7 +686,7 @@ body{
 }
 @media screen and (max-width:420px) {
   .schedule-sec{
-    width: 97%;
+    width: 100%;
   }
 }
 
