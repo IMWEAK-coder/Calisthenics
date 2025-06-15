@@ -319,7 +319,7 @@ body{
 
 /* HOME PAGE */
 .home{
-    background :url("images/Screenshot 2025-06-07 155744.webp");
+    background :url("images/home.webp");
     height:700px ;
     border-radius: 20px;
     position: relative;
@@ -368,7 +368,7 @@ body{
 
   @media screen and (max-width:700px){
     .home{
-      background :url("images/Screenshot 2025-06-07 155744.webp");
+      background :url("images/home.webp");
       height:400px ;
       border-radius: 20px;
       position: relative;
@@ -563,7 +563,7 @@ body{
   width: 95%;
   height: 50%;
   z-index: 2;
-  background: url("images/Screenshot 2025-06-11 101809.webp");
+  background: url("images/Training-area.webp");
   background-size: cover;
   backdrop-filter: blur(24px);
   border-radius: 10px;
@@ -577,7 +577,7 @@ body{
   width: 95%;
   height: 50%;
   z-index: 2;
-  background: url("images/Screenshot 2025-06-11 110927.webp");
+  background: url("images/team.webp");
   background-size: cover;
   backdrop-filter: blur(24px);
   border-radius: 10px;
@@ -591,7 +591,7 @@ body{
   width: 95%;
   height: 50%;
   z-index: 2;
-  background: url("images/Screenshot 2025-06-11 111404.webp");
+  background: url("images/coa.webp");
   background-size: cover;
   backdrop-filter: blur(24px);
   border-radius: 10px;
